@@ -1,0 +1,13 @@
+Problem Name: Sort Numbers
+
+step 1: understand the problem
+   we have many numbers, we need to arrange the numbers in ascending order. ( from smallest to largest)
+   Setap 2: Make the Model 
+   a. Select the first number. 
+   b. Compare it with the next numbers and find which one is smaller.
+   c. Now select the smaller number and compare it with the next. find which one is smaller. 
+   d. Repeat this step until the end of all the numbers. This way will know which is the smalllest number. 
+   e. Replace the smallest number with the first number of the series.
+   f Forget about the first number and start the process with the nest number. Until we finish the whole list. 
+   
+   Video link: https://www.youtube.com/watch?v=xWBP4lzkoyM
